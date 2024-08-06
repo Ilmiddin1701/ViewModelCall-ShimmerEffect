@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ViewModel Resourse</string>
+    <string name="to">To</string>
+    <string name="cad">CAD</string>
+    <string name="from">From</string>
+    <string name="amount">Amount</string>
+    <string name="convert">Convert</string>
+    <string name="currency_name">Currency name</string>
+    <string name="currency_amount">Currency amount</string>
+    <string name="date">Date</string>
+    <string name="usd">USD</string>
+</resources>
