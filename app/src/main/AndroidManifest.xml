@@ -18,7 +18,8 @@
         <receiver
             android:name=".broadcast.MyReceiver"
             android:enabled="true"
-            android:exported="true" />
+            android:exported="true"
+            tools:ignore="ExportedReceiver" />
 
         <activity
             android:name=".MainActivity"

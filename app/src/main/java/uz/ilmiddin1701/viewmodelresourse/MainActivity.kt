@@ -14,6 +14,7 @@ import uz.ilmiddin1701.viewmodelresourse.databinding.ActivityMainBinding
 import uz.ilmiddin1701.viewmodelresourse.models.Status
 import uz.ilmiddin1701.viewmodelresourse.utils.MyData
 
+@Suppress("DEPRECATION")
 class MainActivity : AppCompatActivity() {
     private val binding by lazy { ActivityMainBinding.inflate(layoutInflater) }
     private lateinit var myViewModel: MyViewModel

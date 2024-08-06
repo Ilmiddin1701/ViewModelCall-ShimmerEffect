@@ -5,6 +5,7 @@ import android.content.Context
 import android.net.ConnectivityManager
 import android.net.NetworkCapabilities
 
+@Suppress("DEPRECATION")
 class NetworkHelper constructor(private val context: Context) {
 
     @SuppressLint("ObsoleteSdkInt")
